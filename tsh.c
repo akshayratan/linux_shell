@@ -1,6 +1,6 @@
 /* 
  * 
- * <Yognik Baghel 201101165@daiict.ac.in>
+ * <Akshay Ratan 201101165@daiict.ac.in>
  * tsh - A tiny shell program with job control
  */
 #include <stdio.h>
